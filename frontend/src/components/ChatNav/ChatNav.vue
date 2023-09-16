@@ -40,11 +40,11 @@ let settingIconStyle = ref({
 })
 const enterpriseSetting = ref(false);
 const customChatNumSetting = ref(0);
-const sydneySetting = ref(false);
+const sydneySetting = ref(true);
 const sydneyPromptSetting = ref('');
 
 const GetLastVersion = async () => {
-  const res = await fetch('https://api.github.com/repos/Harry-zklcdc/go-proxy-bingai/releases/latest');
+  const res = await fetch('https://api.github.com/repos/mnacci/go-proxy-bingai/releases/latest');
   const json = await res.json();
   lastVersion.value = json.tag_name;
 };
