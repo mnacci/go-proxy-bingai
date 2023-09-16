@@ -101,7 +101,7 @@ _w['_sydConvConfig'] = {
   dma: 0,
   lat: '78.4156',
   long: '-101.4458',
-  language: 'Chinese (China)',
+  language: 'English (US)',
   userMailId: '123456@hotmail.com',
   username: 'Harry-zklcdc',
   userIpAddress: CookieGet('BingAI_Rand_IP'),
