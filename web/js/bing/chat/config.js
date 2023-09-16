@@ -680,7 +680,7 @@ _w['_sydConvTranslation'] = {
   preciseSugg2: '我需要帮助做研究',
   preciseSugg3: '是什么让地球旋转？',
   close: '关闭',
-  newTopicPrompt: '通过新主题，可以开始与必应就任何主题进行全新对话',
+  newTopicPrompt: 'Click this to start a whole new conversation with Bing',
   typingIndicatorStopRespondingAriaLabel: 'Stop',
   loading: '正在加载',
   canceling: '正在取消',
