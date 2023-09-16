@@ -894,7 +894,7 @@ _w['_sydConvTranslation'] = {
   zeroInputSuggestionCategory1: 'Shop',
   zeroInputSuggestionCategory2: 'Compare',
   zeroInputSuggestionCategory3: 'Fun',
-  zeroInputSuggestionCategory4: 'Chat',
+  zeroInputSuggestionCategory4: 'Research',
   zeroInputSuggestionCategory5: 'Write',
   zeroInputSuggestionCategory6: 'Organize',
   zeroInputSuggestionCategory7: 'Create',
