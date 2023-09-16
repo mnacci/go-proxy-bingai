@@ -888,7 +888,7 @@ _w['_sydConvTranslation'] = {
   zeroInputSuggestionFallback2: 'Comparison of the symptoms of headache and migraine',
   zeroInputSuggestionFallback3: 'Write me good and funny jokes about crabs',
   zeroInputSuggestionFallback4: 'Explain quantum mechanics in simple terms',
-  zeroInputSuggestionFallback5: 'Write me a story about a Knight Templar on a quest to find the Holy Grail',
+  zeroInputSuggestionFallback5: 'Write me a story about a boy who ventured on a quest to find his lost black cat',
   zeroInputSuggestionFallback6: 'Create a table to help me plan my meals for the next two weeks',
   zeroInputSuggestionFallback7: 'Create a slogan for a satirical new social media platform',
   zeroInputSuggestionCategory1: 'Shop',
