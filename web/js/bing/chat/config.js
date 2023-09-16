@@ -945,7 +945,7 @@ _w['_sydConvTranslation'] = {
   visualSearchGenericErrorMessage: '无法上传该文件。请重试。',
   visualSearchUnsupportedFileMessage: '不支持此文件类型。选择图像文件，然后重试。',
   visualSearchInvalidUrlMessage: '抱歉 - 你提供的 URL 似乎无效。请重试',
-  visualSearchFlyoutInputboxAriaLabel: '粘贴图像或链接',
+  visualSearchFlyoutInputboxAriaLabel: 'Send Image or Link',
   visualSearchFlyoutTakePhotoButtonLabel: 'Capture Photo',
   visualSearchDragAndDropLabel: '将图片拖至此处',
   visualSearchFlyoutUploadButtonLabel: 'Upload from this device',
