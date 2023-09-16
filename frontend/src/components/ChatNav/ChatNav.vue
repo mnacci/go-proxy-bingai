@@ -63,7 +63,7 @@ const navType = {
 const navConfigs = [
   {
     key: navType.setting,
-    label: '设置',
+    label: 'Setup',
   },
   {
     key: navType.chatService,
@@ -283,7 +283,7 @@ const saveAdvancedSetting = () => {
     </NDropdown>
     <NModal v-model:show="isShowSettingModal" preset="dialog" :show-icon="false">
       <template #header>
-        <div class="text-3xl py-2">设置</div>
+        <div class="text-3xl py-2">Setup</div>
       </template>
       <NForm ref="formRef" label-placement="left" label-width="auto" require-mark-placement="right-hanging" style="margin-top: 16px;">
         <NFormItem path="cookiesEnable" label="完整 Cookie">
