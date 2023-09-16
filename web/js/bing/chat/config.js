@@ -512,7 +512,7 @@ _w['_sydConvTranslation'] = {
   feedbackSource: '源: 与必应的对话，',
   feedbackShareConversationQuery: '什么是新版必应?',
   feedbackThanksMessageV2: '感谢你的反馈。请重新开始或刷新页面。',
-  messageLearnMore: '了解详细信息:',
+  messageLearnMore: 'Learn more:',
   messageReference: '参考',
   messageReferences: '引用',
   messagePrivacyLabel: '你的个人和公司数据在此聊天中受到保护',
