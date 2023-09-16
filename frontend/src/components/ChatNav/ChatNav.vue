@@ -40,7 +40,7 @@ let settingIconStyle = ref({
 })
 const enterpriseSetting = ref(false);
 const customChatNumSetting = ref(0);
-const sydneySetting = ref(true);
+const sydneySetting = ref(false);
 const sydneyPromptSetting = ref('');
 
 const GetLastVersion = async () => {
