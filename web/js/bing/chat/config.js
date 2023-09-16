@@ -681,7 +681,7 @@ _w['_sydConvTranslation'] = {
   preciseSugg3: '是什么让地球旋转？',
   close: '关闭',
   newTopicPrompt: '通过新主题，可以开始与必应就任何主题进行全新对话',
-  typingIndicatorStopRespondingAriaLabel: '停止响应',
+  typingIndicatorStopRespondingAriaLabel: 'Stop',
   loading: '正在加载',
   canceling: '正在取消',
   welcomeLearnSegment0: '必应由 AI 提供支持，因此可能出现意外和错误。请确保核对事实，并',
