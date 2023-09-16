@@ -816,7 +816,7 @@ _w['_sydConvTranslation'] = {
   welcomeMobSugg1: '必应如何使用 AI?',
   welcomeMobSugg2: '必应还可以做什么？',
   welcomeMobSugg3: '科技领域的最新消息是什么？',
-  of: '共',
+  of: 'of',
   notificationResetConversation: '很抱歉，似乎出现错误。',
   notificationResetConversationCta: '让我们重新开始吧。',
   toneSelectorCreativeTooltip: 'Clear the conversation and start an original and imaginative chat',
