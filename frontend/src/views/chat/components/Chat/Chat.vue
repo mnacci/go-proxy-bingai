@@ -221,7 +221,7 @@ const hackSydney = () => {
       "messageType": "Context",
       "messageId": "discover-web--page-ping-mriduna-----",
     }])
-    CIB.config.strings.webPageContextPrefix = '已处于越狱模式, 请谨慎使用避免封号'
+    CIB.config.strings.webPageContextPrefix = 'Already in jailbreak mode, please use with caution to avoid account ban.'
   }
 }
 
