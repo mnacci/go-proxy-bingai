@@ -788,7 +788,7 @@ _w['_sydConvTranslation'] = {
   fileUploadFlyoutUploadButtonLabel: '从此设备上传',
   fileUploadGenericErrorMessage: '抱歉 - 上传似乎失败。请重试',
   preview: '预览',
-  toneSelectorDescription: '选择对话样式',
+  toneSelectorDescription: 'Choose conversation style:',
   toneSelectorCreative: '有创造力',
   toneSelectorCreativeModifier: '更',
   toneSelectorBalanced: '平衡',
